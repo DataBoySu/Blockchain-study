@@ -15,7 +15,7 @@ This is an academic simulation project, not intended to be a production blockcha
 > Cite: [How to Read a Paper by S. Keshav](keshav@uwaterloo.ca)
 
 > **Day 1**:
-> - Scaffold simulation study
+> - Scaffold the simulation study
 > - Setup latex
 > - Select Papers for review
 
@@ -27,3 +27,4 @@ This is an academic simulation project, not intended to be a production blockcha
 > **Day 3**: Analysis of Day 2
 > - Paper 1: Majority is not enough; Blockchain is vulnerable by *Eyat and Sirer* \
 > [Notes](NOTES_P1.md)
+> 
