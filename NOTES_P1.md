@@ -20,4 +20,7 @@ any group size of colluding miners."
 
 ### Modification proposed by the paper
 
-General Case Protection
+Paper proposes a "practical" modification to the Bitcoin network that would protect the network generally.
+
+**Proposal**: Prohibit selfish mining by groups that command leaa than 1/4 of the resource.
+
