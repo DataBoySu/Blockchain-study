@@ -33,5 +33,10 @@ Earlier miners used CPUs, around 2014, ASIC machines gained significance, these 
 > [!IMPORTANT]
 > Ethereum is programmable ledger, with VMs at every node \
 > Bitcoin is like gold. Will mine the last coin in 2140.
-> 
 
+- Colluding groups of miners are formed to decrease income variance, each member contributes and receives rewards based on their contribution. [Centralization]
+
+## Surrounding Context
+-  [Kroll, J.A., Davey, I.C., Felten, E.W.: The economics of Bitcoin mining or, Bitcoin in the
+presence of adversaries. In: Workshop on the Economics of Information Security (2013)] - does not take into account mining strategies like block withholding etc.
+- 
