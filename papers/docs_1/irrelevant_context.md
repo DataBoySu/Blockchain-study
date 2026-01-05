@@ -7,8 +7,8 @@
 
 Nonce: Random 32-bit number
 
-Earlier miners used CPUs, around 2014, ASIC machines gained significance, these machines spealize in only one thing, BITWISE Operations getting to magnitudes higher processing power than traditional CPU, which is generalist, and GPU which is specialized for Graphics and MM.
-- ASIC: 
+Earlier miners used CPUs, around 2014, ASIC machines gained significance, these machines spealize in only one thing, performing SHA-256 Operations(for solving PoW puzzles) getting to magnitudes higher processing power than traditional CPU, which is generalist, and GPU which is specialized for Graphics and MM.
+- ASIC: Application-Specific Integrated Circuit Machines
 
 ## Background Info
 
