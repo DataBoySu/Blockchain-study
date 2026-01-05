@@ -38,5 +38,5 @@ Unlike the theoretical, 51% limit, paper proposes much lower 25% limit, which th
 ### References
 
 > [!IMPORTANT]
-> Reference [9](http://bitcoincharts.com/bitcoin/) is unreachable.
+> Reference [9](http://bitcoincharts.com/bitcoin/) is invalid on January 4, 2026.
 > 
