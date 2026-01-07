@@ -27,4 +27,11 @@ This is an academic simulation project, not intended to be a production blockcha
 > **Day 3**: Analysis of Day 2
 > - Paper 1: Majority is not enough; Blockchain is vulnerable by *Eyat and Sirer* \
 > [Notes](NOTES_P1.md)
-> 
+
+> **Day 4**:
+
+> **Day 5**:
+
+> **Day 6**:
+
+> **Day 7**:
