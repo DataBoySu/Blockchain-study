@@ -35,3 +35,5 @@ This is an academic simulation project, not intended to be a production blockcha
 > **Day 6**:
 
 > **Day 7**:
+
+> **Day 8**:
