@@ -1,40 +1,39 @@
-# Impact of Network Partition Attacks on Blockchain Consensus
+> This Repo is for my Blockchain independent study \
+> and Study of the Bitcoin network
 
-This repository contains a small-scale simulation study for investigating the effect of network partition attacks on blockchain consensus stability.
+# CAP Theorem
 
-The project consists of:
+- Consistency: All nodes have a consistent view of the data irrespective of where the client is connected to
+- Availability: Ability to respond to requests from users at all time
+- Partition Tolerance: Ability of system to continue operating even under a **network partition**
 
-- A discrete-time simulator modeling block propagation under network partitions.
-- Experimental evaluation of fork rates, orphaned blocks, and reorganization behavior.
-- A technical report describing the model, experiments, and results.
+IF. a system suffers from network attack, it can prioritize either:
 
-This is an academic simulation project, not intended to be a production blockchain implementation.
+1. Availability but forgoes Consistency
+2. Consistency but forgoes Availability
 
-> [!NOTE]
-> I will be using the 3-pass approach for going over the papers \
-> Cite: [How to Read a Paper by S. Keshav](keshav@uwaterloo.ca)
+However, CAP theorem assumes ideal state of network and simple model of Consistency and Availability which is rare, no, never seen in real-world networks.
 
-> **Day 1**:
-> - Scaffold the simulation study
-> - Setup latex
-> - Select Papers for review
+# Proof of Stake (PoS)
 
-> **Day 2**: Literature Review
-> - Majority is vulnerable: Nakamoto consensus is inherently not safe? by *Eyal and Sirer*
-> - Information Propagation in Bitcoin by *Decker and Roger*
-> - Blockchain protocols in async networks by *Shelat, Seeman*
+- Used by Ethereum, Solana etc.
+- Energy Usage is very low compared to PoW
+- Max scalability and efficiency
 
-> **Day 3**: Analysis of Day 2
-> - Paper 1: Majority is not enough; Blockchain is vulnerable by *Eyat and Sirer* \
-> [Notes](NOTES_P1.md)
+# Proof of Work (PoW)
 
-> **Day 4**:
+- Used by Bitcoin
+- Energy/resource usage is high as its directly tied to consensus
+- Max security
+- Potential issues: 51% attack,
 
-> **Day 5**:
+## Process
 
-> **Day 6**:
+1. First miner to find solution of the cryptographic puzzle, set by network, wins the right-to-add a new block to the network
+2. Miner will receive newly minted BTC and transaction fees
 
-> **Day 7**:
+Citations:
 
-> **Day 8**:
-
+1. [CAP Theorem Simplified by ByteByteGo](https://youtu.be/BHqjEjzAicA)
+2. [A Proof of Stake Overview By Pool of Stake](https://medium.com/@poolofstake/a-proof-of-stake-overview-445c52558d03)
+3. 
