@@ -1,12 +1,8 @@
-# SHA
+# SHA - Secure Hashing Algorithms
 
 > [!NOTE]
 > In this Repo, lets learn about SHA 256 hash function \
 > Since understanding the cryptographic puzzle is paramount to understanding Blockchain
-
-SHA - Secure Hashing Algorithms
-
-SHA 512: SHA 2
 
 ## SHA 1
 
@@ -17,4 +13,12 @@ SHA 512: SHA 2
 
 1. Take a loop and chunk file down to 512 bits
 2. Keep updating the internal state until files expended
-3. 
+
+If data is not a multiple of 512 bits, we need to pad it.
+
+## SHA 3
+
+Has hidden data that interacts with your data to give the output.
+
+- Prevents Hash Length Extension Attack
+- 
