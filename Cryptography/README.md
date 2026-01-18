@@ -1,4 +1,6 @@
-# SHA - Secure Hashing Algorithms
+# Cryptography
+
+SHA - Secure Hashing Algorithms
 
 > [!NOTE]
 > In this Repo, lets learn about SHA 256 hash function \
@@ -20,7 +22,7 @@ If data is not a multiple of 512 bits, we need to pad it.
 
 Has hidden data that interacts with your data to give the output.
 
-- Prevents Hash Length Extension Attack
+- Prevents Hash Length Extension Attack(HLEA)
 
 > [!NOTE]
 > HLEA: Can happen in SHA 2; sinc eit allows extending the SHA function \

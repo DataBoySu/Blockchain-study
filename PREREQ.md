@@ -16,8 +16,6 @@ However, CAP theorem assumes ideal state of network and simple model of Consiste
 
 
 
-
-
 Citations:
 
 1. [CAP Theorem Simplified by ByteByteGo](https://youtu.be/BHqjEjzAicA)
