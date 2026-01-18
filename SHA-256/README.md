@@ -21,4 +21,9 @@ If data is not a multiple of 512 bits, we need to pad it.
 Has hidden data that interacts with your data to give the output.
 
 - Prevents Hash Length Extension Attack
-- 
+
+> [!NOTE]
+> HLEA: Can happen in SHA 2; sinc eit allows extending the SHA function \
+> resulting in a valid hash been sent with unwanted additional data \
+> **SHA 3** Prevents this attack by preventing mid-way extensions by having "hidden" states for each of the hashing functions
+
