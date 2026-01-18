@@ -1,3 +1,6 @@
 numpy
 matplotlib
 networkx
+cryptography 
+zxcvbn 
+bcrypt
