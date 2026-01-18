@@ -22,4 +22,4 @@ Citations:
 
 1. [CAP Theorem Simplified by ByteByteGo](https://youtu.be/BHqjEjzAicA)
 2. [A Proof of Stake Overview By Pool of Stake](https://medium.com/@poolofstake/a-proof-of-stake-overview-445c52558d03)
-3. 
+3. [SHA: Secure Hashing Algorithm - Computerphile](https://www.youtube.com/watch?v=DMtFhACPnTY)
